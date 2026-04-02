@@ -57,68 +57,53 @@
 - Managed enterprise Linux + storage environments  
 
 ---
-## Tech Knowledge & Coding:
+### 🛠 **Skills & Technologies**
 
-### Languages
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![GoLang](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+#### Cloud & Orchestration:
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/) 
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
+[![OpenShift](https://img.shields.io/badge/OpenShift-E10000?style=flat&logo=redhat&logoColor=white)](https://www.openshift.com/) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://helm.sh/) 
+[![Kustomize](https://img.shields.io/badge/Kustomize-7E7E7E?style=flat&logo=github&logoColor=white)](https://kustomize.io/)
 
-**Cloud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) 
-![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoft-azure)   
- 
-**OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS&logoColor=red)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
-![RedHat](https://img.shields.io/badge/-RedHat-black?style=flat-square&logo=RedHat&logoColor=red)
+#### CI/CD & GitOps:
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/) 
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/) 
+[![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat&logo=argo&logoColor=white)](https://argoproj.github.io/workflows/) 
+[![Temporal](https://img.shields.io/badge/Temporal-2D3E50?style=flat&logo=temporal&logoColor=white)](https://temporal.io/) 
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-2664A9?style=flat&logo=hashicorp&logoColor=white)](https://www.vaultproject.io/)
 
-**Monitoring&nbsp;&nbsp;**
-![zabbix](https://img.shields.io/badge/-Zabbix-black?style=flat-square&logo=Zabbix)
-![Nagios](https://img.shields.io/badge/-Nagios-black?style=flat-square&logo=Nagios)
-![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana)
+#### IaC & Automation:
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/) 
+[![Pulumi](https://img.shields.io/badge/Pulumi-623CE4?style=flat&logo=pulumi&logoColor=white)](https://www.pulumi.com/) 
+[![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/cdk/) 
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-### Infrastructure and DevOps
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
-  ![Mosquitto](https://img.shields.io/badge/-Mosquitto-333333?style=flat&logo=eclipse-mosquitto)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-  ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=Traefik)
-  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
-  ![Serverless](https://img.shields.io/badge/Serverless-black?style=flat-square&logo=serverless)
-  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+#### Observability & Monitoring:
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/) 
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/) 
+[![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/) 
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=white)](https://www.clickhouse.com/) 
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/) 
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B49DF?style=flat&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 
-**Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
-![php](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![CakePHP](https://img.shields.io/badge/CakePHP-black?style=flat-square&logo=cakephp)
-![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)
-![Bash](https://img.shields.io/badge/Shell-black?style=flat-square&logo=GNU-bash)
+#### Backend & API:
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.java.com/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://go.dev/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 
-### Environment, IDEs, and Tools
-  ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
-  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
+
+#### Databases:
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](https://redis.io/)
 
 ---
 
