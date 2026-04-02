@@ -57,20 +57,68 @@
 - Managed enterprise Linux + storage environments  
 
 ---
+## Tech Knowledge & Coding:
 
-## 💪 Tech Stack
+### Languages
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![GoLang](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-**Cloud & Orchestration**  
-AWS · Kubernetes · Docker · Helm  
+**Cloud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) 
+![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoft-azure)   
+ 
+**OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS&logoColor=red)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
+![RedHat](https://img.shields.io/badge/-RedHat-black?style=flat-square&logo=RedHat&logoColor=red)
 
-**CI/CD & GitOps**  
-GitHub Actions · GitLab CI · Jenkins · ArgoCD  
+**Monitoring&nbsp;&nbsp;**
+![zabbix](https://img.shields.io/badge/-Zabbix-black?style=flat-square&logo=Zabbix)
+![Nagios](https://img.shields.io/badge/-Nagios-black?style=flat-square&logo=Nagios)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=Grafana)
 
-**IaC & Automation**  
-Terraform · Puppet · Ansible · Python · Bash · Go  
+### Infrastructure and DevOps
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+  ![Mosquitto](https://img.shields.io/badge/-Mosquitto-333333?style=flat&logo=eclipse-mosquitto)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+  ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+  ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=Traefik)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
+  ![Serverless](https://img.shields.io/badge/Serverless-black?style=flat-square&logo=serverless)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
 
-**Observability**  
-Prometheus · Grafana · Splunk · ELK · OpenTelemetry  
+**Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
+![php](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![CakePHP](https://img.shields.io/badge/CakePHP-black?style=flat-square&logo=cakephp)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)
+![Bash](https://img.shields.io/badge/Shell-black?style=flat-square&logo=GNU-bash)
+
+### Environment, IDEs, and Tools
+  ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
+  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
 ---
 
