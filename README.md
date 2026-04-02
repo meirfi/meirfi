@@ -28,7 +28,7 @@
 ## 💼 Experience
 
 [![Cisco](https://img.shields.io/badge/Cisco-%23049fd9?style=flat&logo=cisco&logoColor=black)](https://cisco.com)
-- **Cisco** **SRE Team Leader** · 2024 – Present
+- **Cisco**  
   *Platform Engineer & DevOps Roles*  
   - Leading infrastructure and platform strategy  
   - Architecting AWS + Kubernetes environments  
