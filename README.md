@@ -28,12 +28,15 @@
 ## 💼 Experience
 
 [![Cisco](https://img.shields.io/badge/Cisco-%23049fd9?style=flat&logo=cisco&logoColor=black)](https://cisco.com)
-**SRE Team Leader** · 2024 – Present  
-- Leading infrastructure and platform strategy  
-- Architecting AWS + Kubernetes environments  
-- Driving reliability, monitoring, and incident management  
-- Designing automated IaC systems  
-
+- **Cisco** **SRE Team Leader** · 2024 – Present
+  *Platform Engineer & DevOps Roles*  
+  - Leading infrastructure and platform strategy  
+  - Architecting AWS + Kubernetes environments  
+  - Driving reliability, monitoring, and incident management  
+  - Designing automated IaC systems  
+  - Developing CNAPP & GenAI Incubation platform & IDP  
+  - Comprehensive CI/CD & GitOps solutions  
+  - Cloud services, Infra migrations, Microservice security  
 ---
 
 [![Check Point](https://img.shields.io/badge/Check%20Point-%23e60023?style=flat&logo=checkpoint&logoColor=white)](https://www.checkpoint.com/)
