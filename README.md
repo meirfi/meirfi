@@ -43,7 +43,7 @@ I enjoy turning complex infrastructure challenges into simple, automated, and re
   - Cloud services, Infra migrations, Microservice security  
 
 [![Check Point](https://img.shields.io/badge/Check%20Point-%23e60023?style=flat&logo=checkpoint&logoColor=white)](https://www.checkpoint.com/)
-- **Check Point Software Technologies**
+- **Check Point Software Technologies**  
   *DevOps Engineer* 
   - Reduced deployment time by **70%**  
   - Achieved **99.9% uptime**  
