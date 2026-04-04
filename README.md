@@ -43,11 +43,13 @@ I enjoy turning complex infrastructure challenges into simple, automated, and re
   - Cloud services, Infra migrations, Microservice security  
 
 [![Check Point](https://img.shields.io/badge/Check%20Point-%23e60023?style=flat&logo=checkpoint&logoColor=white)](https://www.checkpoint.com/)
-**DevOps Engineer** · 2018 – 2024  
-- Reduced deployment time by **70%**  
-- Achieved **99.9% uptime**  
-- Reduced infrastructure cost by **40%**  
-- Built CI/CD, observability, and automation systems  
+- **Check Point Software Technologies**
+  *DevOps Engineer* 
+  - Reduced deployment time by **70%**  
+  - Achieved **99.9% uptime**  
+  - Reduced infrastructure cost by **40%**  
+  - Built CI/CD, observability, and automation systems
+  - On-premises services such as VMware ESXi for managing virtual machines.
 
 [![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/)
 - **IBM XiV**  
@@ -58,7 +60,6 @@ I enjoy turning complex infrastructure challenges into simple, automated, and re
   - Built automation for test environments and infrastructure (fabric + VMs) using Perl, Bash, Python, PowerShell, and PowerCLI  
   - Developed internal tools to collect and visualize performance data (PHP, Perl, MySQL) to better understand system behavior and bottlenecks  
   - Worked closely with R&D teams to troubleshoot issues and improve performance and overall system efficiency  
----
 
 [![Teva](https://img.shields.io/badge/Teva-009FDA?style=flat)](https://www.tevapharm.com/)
 **Linux & Infrastructure Engineer**  
